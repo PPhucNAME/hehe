@@ -2,7 +2,7 @@
   {
     "fw_id": "FW001",
     "device_type": "Q4B",
-    "version": "v0.1",
+    "version": "v0.1_DP",
     "path": "FW001/FW.enc",
     "md5": "5ee90e563ec934c4786f55a887bd925a",
     "path_bootloader": "FW001/BOTL.enc",
