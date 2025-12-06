@@ -88,5 +88,39 @@
       "description": "Feature WiFi, Hardware QR Box v0.2",
       "status": "stable"
     }
+  },
+  {
+    "fw_id": "FW007",
+    "device_type": "VIV",
+    "version": "MDB_0",
+    "path": "FW007/FW.enc",
+    "md5": "3b49023ae67c422c396aefe95d61ad52",
+    "path_bootloader": "FW007/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW007/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "MDB_0.0.12_RFID",
+      "description": "FW sá»­ dá»¥ng tháº» ná»™i bá»™, khÃ´ng dÃ¹ng Ä‘Æ°á»£c 4G.",
+      "status": "stable"
+    }
+  },
+  {
+    "fw_id": "FW008",
+    "device_type": "VIV",
+    "version": "VER_2",
+    "path": "FW008/FW.enc",
+    "md5": "82349c52455a83282898ceb8125bdb62",
+    "path_bootloader": "FW008/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW008/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "VER_2-2.2.1",
+      "description": "MÃ£ Ä‘áº§u VHI, Há»— trá»£ 4G",
+      "status": "beta"
+    }
   }
 ]
