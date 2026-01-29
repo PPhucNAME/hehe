@@ -71,5 +71,22 @@
       "description": "Hardware QRBOX v0.2.",
       "status": "stable"
     }
+  },
+  {
+    "fw_id": "FW006",
+    "device_type": "VMDD",
+    "version": "v1.1",
+    "path": "FW006/FW.enc",
+    "md5": "1a64f661af3882c268592900ab44ec57",
+    "path_bootloader": "FW006/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW006/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_MINI_DIEN_DUNG",
+      "version": "v1.1.2_VENDING_MINI_MACHINE",
+      "description": "Support 48 slot, WiFi, QR Box v0.2",
+      "status": "stable"
+    }
   }
 ]
